@@ -35,3 +35,5 @@ The objective of this design is an **Infrastructure Alert Triage Workflow** cons
 - **Lack of Identity & Asset Context:** Alerts that say _"Unauthorized API call detected"_ without showing which specific IAM role or automated service identity was hijacked, forcing a lengthy manual lookup.
     
 - **Manual, High-Friction Mitigation:** Having to manually log into a specific cloud provider's console to terminate a compromised asset or strip permissions, introducing human error and slowing down response times during an active architectural exploit.
+
+Link to figma designed wireframes for [assignment](https://www.figma.com/design/zftFAtVT51OA3Yx4cIstIj/Assignment?node-id=26-48&t=KGNIaajDvAksLiPZ-1)
